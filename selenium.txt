@@ -3,3 +3,5 @@ name
 locator
 tag name
 class name
+click
+sendkeys
