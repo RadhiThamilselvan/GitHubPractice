@@ -1,3 +1,5 @@
 id
 name
 locator
+tag name
+class name
